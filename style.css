@@ -7,13 +7,11 @@ body{
     background-color: #25283D ;
 
 }
-h1, h2, h3, h4{
+h1{
     color: #4D9DE0
 }
-h1{
-}
 a{
-    color: #FF715B
+    color: #4D9DE0
 }
 strong{
     color: #F3B700
@@ -24,8 +22,8 @@ strong{
 .foto{
     width: 50%;
     height: 50%;
-    margin-left: 20%;
+    margin-left: 39%;
 }
-img{
-    align-items: ;
+.textocentro{
+    text-align: center;
 }
