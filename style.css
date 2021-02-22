@@ -1,0 +1,31 @@
+
+html{
+    color: #9BA2FF;
+    margin: 5%;
+}
+body{
+    background-color: #25283D ;
+
+}
+h1, h2, h3, h4{
+    color: #4D9DE0
+}
+h1{
+}
+a{
+    color: #FF715B
+}
+strong{
+    color: #8C271E
+}
+.centralizado{
+    text-align:center;
+}
+.foto{
+    width: 50%;
+    height: 50%;
+    margin-left: 20%;
+}
+img{
+    align-items: center;
+}
